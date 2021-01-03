@@ -1,0 +1,9 @@
+-------
+Lab-1:
+-------
+
+- lex <filename.l>                # Generate finite state machine file
+- gcc lex.yy.c                    # Generate exe file
+- gcc lex.yy.c -o b               # Generate exe file with name (say) b.exe
+- b                               # Run
+- b <input.txt> output.txt        # Run, but read & write from & to files

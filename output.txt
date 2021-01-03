@@ -1,0 +1,14 @@
+A ==> Not matched
+1 ==> Not matched
+Utshab ==> Not matched
+75 ==> Not matched
+_A ==> Not matched
+& ==> Not matched
+
+RUET CSE 16 is a CSEian
+
+RUET CSE 18 is a CSEian
+
+RUET CSE 21 ==> Not matched
+
+int a = 10; ==> Not matched

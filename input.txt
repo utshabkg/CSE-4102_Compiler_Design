@@ -1,0 +1,12 @@
+A
+1
+Utshab
+75
+_A
+&
+
+RUET CSE 16
+RUET CSE 18
+RUET CSE 21
+
+int a = 10;
