@@ -7,3 +7,14 @@ Lab-1:
 - gcc lex.yy.c -o b               # Generate exe file with name (say) b.exe
 - b                               # Run
 - b <input.txt> output.txt        # Run, but read & write from & to files
+
+-------
+Lab-2:
+-------
+** Push Down Automaton
+
+- yacc <filename.y>                # Generate finite state machine file
+- gcc 1.tab.c                      # Generate exe file
+- b                                # Run
+
+Source: https://silcnitc.github.io/yacc.html
