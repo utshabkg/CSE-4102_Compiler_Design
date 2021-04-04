@@ -1,3 +1,6 @@
+# CSE-4102
+Lab works of Compiler Design Course.
+
 -------
 Lab-1:
 -------
@@ -17,4 +20,12 @@ Lab-2:
 - gcc 1.tab.c                      # Generate exe file
 - b                                # Run
 
-Source: https://silcnitc.github.io/yacc.html
+Source: https://silcnitc.github.io/yacc.
+
+-------
+Lab-3:
+-------
+** merge yacc and lex together.
+
+- %option noyywrap                  # it helps not to write yywrap(){}
+- Makefile is an automation file for running all files.
