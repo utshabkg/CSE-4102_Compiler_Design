@@ -1,0 +1,1 @@
+function myFunction() { var myVar = "Nick"; console.log(myVar); }

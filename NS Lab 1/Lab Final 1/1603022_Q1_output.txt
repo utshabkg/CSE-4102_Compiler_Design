@@ -1,0 +1,9 @@
+if Keyword
+( Left Parenthesis
+1 Integer
+) Right Parenthesis
+var Identifier
++ Add
+= Assign Operator
+1 Integer
+; Semicolon
